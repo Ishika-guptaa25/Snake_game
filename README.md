@@ -1,11 +1,18 @@
-# 🐍 Cartoon Snake – Made by Ishika
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent;">
+    🐍 Cartoon Snake Game
+  </span>
+</h1>
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)  
-[![Pygame](https://img.shields.io/badge/Pygame-2.x-green)](https://www.pygame.org/)  
-[![GitHub release](https://img.shields.io/badge/Release-v1.0-orange)]()
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pygame-2.x-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Release-v1.0-orange?style=for-the-badge" />
+</p>
 
-## 🎮 Project Overview  
-**Cartoon Snake** is a fun, colourful snake game built using **Python + Pygame**. With a custom menu, theme & snake colour selection, and a cute UI, it’s designed to look as good as it plays.
+<p align="center">
+  <img width="500" src="https://github.com/user-attachments/assets/a05cc838-bfd5-43a1-b96a-306b00b7c0a0" />
+</p>
 
 ---
 
